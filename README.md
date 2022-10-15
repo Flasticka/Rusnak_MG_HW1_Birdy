@@ -11,3 +11,10 @@ Her real name is Jasmine Lucilla Elizabeth Jennifer van den Bogaerde. She is sin
 - Wings
 - Shelter
 - Skinny love
+
+### Albums
+
+1. Birdy
+2. Young Heart
+3. Beautiful Lies
+4. Fire Within
