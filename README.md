@@ -1,5 +1,5 @@
 # HW1
-Owner Name: David Rusnák
+Owner Name: Dávid Rusnák
 My UCO:492831
 
 This is solution of my homework, about my favorite singer.
