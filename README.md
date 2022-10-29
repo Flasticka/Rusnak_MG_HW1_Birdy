@@ -1,5 +1,5 @@
 # HW1
-Owner Name: David
+Owner Name: David Rusnák
 This is solution of my homework, about my favorite singer.
 
 ## Birdy
