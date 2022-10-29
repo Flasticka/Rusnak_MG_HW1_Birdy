@@ -1,5 +1,6 @@
 # HW1
-Owner Name: David Rusnák
+Owner Name: David Rusnák UCO: 492830
+
 This is solution of my homework, about my favorite singer.
 
 ## Birdy
