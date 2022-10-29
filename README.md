@@ -1,5 +1,5 @@
 # HW1
-Author: Dávid Rusnák
+Author: My name is Dávid Rusnák
 This is solution of my homework, about my favorite singer.
 
 ## Birdy
