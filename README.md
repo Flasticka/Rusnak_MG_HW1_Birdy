@@ -1,5 +1,5 @@
 # HW1
-
+Author: David Ruskak
 This is solution of my homework, about my favorite singer.
 
 ## Birdy
