@@ -1,6 +1,6 @@
 # HW1
 Author: Dávid Rusnák
-UCO: TODO
+My UCO is: 492831
 This is solution of my homework, about my favorite singer.
 
 ## Birdy
