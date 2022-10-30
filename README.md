@@ -1,5 +1,6 @@
 # HW1
-
+Author: Dávid Rusnák
+UCO: 492831
 This is solution of my homework, about my favorite singer.
 
 ## Birdy
